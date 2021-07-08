@@ -25,7 +25,13 @@
       "postId": 1
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "profile":[ {
+    "name": "Timmy"
+  },{
+    "name": "Jimmy"
+  },
+     {
+       "name": "Tommy"
+       }           
+    ]
 }
