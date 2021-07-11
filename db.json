@@ -41,5 +41,25 @@
        "userId": 3,
        "name": "Tommy"
        }           
-    ]
+    ],
+  "album":[
+    {
+      "userId:": 1,
+      "id": 1,
+      "image": "\Orly.jpg",
+      "title": "Confused Owl"
+    },
+    {
+       "userId:": 1,
+      "id": 2,
+      "image": "\IMG_20161030_110213.jpg",
+      "title": "Alien prop from MCM Comiccon"
+    },
+    {
+       "userId:": 1,
+      "id": 3,
+      "image": "\156021935_10160675121722067_6224672664500585206_n.jpg",
+      "title": "Mazda 3 MPS"
+    }
+    ]   
 }
